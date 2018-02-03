@@ -1,1 +1,1 @@
-Teste do curso de git
+Arquivo de testes para estudos do treinamento de Git e Github.
